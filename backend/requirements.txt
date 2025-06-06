@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+sqlalchemy
+asyncpg
+alembic
+aiofiles
+python-multipart
+discord.py
+python-dotenv
