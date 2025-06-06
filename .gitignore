@@ -1,0 +1,5 @@
+# Ignore everything inside the sounds folder
+/sounds/*
+
+# But keep the folder itself and any .gitkeep placeholder
+!/sounds/.gitkeep
